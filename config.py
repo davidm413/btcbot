@@ -13,5 +13,5 @@ class Config:
     MAX_POSITION_USD = 10000
     MAX_DAILY_LOSS_USD = 500
     MAX_TRADES_PER_DAY = 5
-    MIN_USDC_BALANCE = 1000
+    MIN_USDC_BALANCE = 20
     MAINNET_URL = "https://api.hyperliquid.xyz"
